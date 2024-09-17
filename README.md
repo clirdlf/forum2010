@@ -1,11 +1,8 @@
 # Forum 2010
- based on 
-https://web.archive.org/web/20120525191623/http://www.diglib.org/forums/fall2010/
 
-## Notes
+based on <https://web.archive.org/web/20120525191623/http://www.diglib.org/forums/fall2010/>
 
-
-# 11ty with Bootstrap Scaffold
+## 11ty with Bootstrap Scaffold
 
 This is scaffold for new projects using [11ty](https://www.11ty.dev/) with [Bootstrap](https://getbootstrap.com/docs/5.3/examples/) (building with [Vite](https://vitejs.dev/)) meant to deploy to [GitHub Pages](https://pages.github.com/). Also includes some basic [VSCode](https://code.visualstudio.com/) setup.
 
@@ -26,8 +23,6 @@ This is scaffold for new projects using [11ty](https://www.11ty.dev/) with [Boot
 
 <https://waynegraham.github.io/eleventy-plus-bootstrap-scaffold/>
 
-# Usage
-
 ## Install
 
     npm install
@@ -42,7 +37,6 @@ Preview runs at <http://localhost:8080>
 
     npm run build
 
-# Credits
+## Credits
 
 * Layout based on Bootstrap [Jumbotron Example](https://getbootstrap.com/docs/5.3/examples/jumbotron/)
-
