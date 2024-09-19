@@ -2,6 +2,11 @@
 
 based on <https://web.archive.org/web/20120525191623/http://www.diglib.org/forums/fall2010/>
 
+```
+RedirectMatch 301 ^/dlf-events/fall2010/(.*)$ https://forum2010.diglib.org/$1
+```
+
+
 ## 11ty with Bootstrap Scaffold
 
 This is scaffold for new projects using [11ty](https://www.11ty.dev/) with [Bootstrap](https://getbootstrap.com/docs/5.3/examples/) (building with [Vite](https://vitejs.dev/)) meant to deploy to [GitHub Pages](https://pages.github.com/). Also includes some basic [VSCode](https://code.visualstudio.com/) setup.
